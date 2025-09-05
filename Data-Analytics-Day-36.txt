@@ -1,0 +1,51 @@
+Advanced Business Intelligence & Dashboards
+
+🔹 Topics & Explanations
+
+1)Storytelling with Data in Power BI
+==================================
+Beyond charts, dashboards should tell a story. Use annotations, smart visuals, and layout design to guide decision-makers.
+
+Example: A sales dashboard that not only shows KPIs but also highlights regional growth trends with callout cards.
+
+
+2)Dynamic Filters & Drill-Through in Power BI
+==========================================
+Drill-through lets users click on a visual and dive deeper into specific details.
+
+Example: From a product sales overview, drill into individual product performance per city.
+
+
+3)AI Visuals in Power BI
+======================
+Power BI now has AI-powered visuals like Key Influencers and Decomposition Trees.
+
+Example: Identify what factors (e.g., discount % or region) most influence revenue changes.
+
+
+4)Data Blending in Tableau
+=========================
+Combine data from multiple sources (Excel, SQL, APIs) to enrich insights.
+
+Example: Blend CRM data with web traffic data to analyze how marketing drives sales conversions.
+
+
+5)Advanced DAX for Time Intelligence
+==================================
+Learn DAX functions like SAMEPERIODLASTYEAR(), TOTALYTD(), PARALLELPERIOD() to calculate rolling averages and YoY growth.
+
+Example: Compare 2024 Q1 sales vs. 2023 Q1 automatically in dashboards.
+
+
+6)Dashboard Performance Optimization
+====================================
+Avoid overloading dashboards with visuals. Use aggregated tables, query reduction techniques, and incremental refresh.
+
+Example: Optimize a dashboard with 1M+ records by enabling DirectQuery instead of Import mode.
+
+
+7)Dashboard Design Best Practices
+================================
+Focus on clarity, minimalism, and business impact. Use consistent color schemes and align KPIs at the top.
+
+Example: Executive dashboards with just 5 key tiles (Revenue, Expenses, Profit, Customers, Growth).
